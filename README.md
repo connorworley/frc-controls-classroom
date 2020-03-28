@@ -11,7 +11,11 @@ Welcome to the controls classroom! This class is intended to get you up to speed
 * Don't DM cworley unless you have a truly private question.
 
 ### Syllabus
-| Video | Slides | Reading | Quiz |
-|-------|--------|---------|------|
-| [Lecture 1](https://drive.google.com/open?id=1DCF2kl1OIPOACC6ZMYD1sonoQXhpXKZU)<br>[Installing brew (macOS only)](https://drive.google.com/open?id=1qsLwS6rcJM9t0K1fwmnKmheiIzEHaeCv) | [Slides](https://drive.google.com/open?id=14sS9P_2OzlcaXug1fmXTG5ahcQq5me_Xj9O8hViNcyY) | | |
-| [Lecture 2](#) | [Slides](#) | [Unix for the Beginning Mage](http://unixmages.com/wp-content/uploads/2018/12/ufbm.pdf) Chapters 1-3 (stop at page 32)<br>[How To Read Man Pages](https://www.cs.mcgill.ca/~guide/help/man.html) | [Quiz 1](https://forms.gle/513xd9rdPesYPVDf8) |
+#### Lecture 1
+* [Lecture](https://drive.google.com/open?id=1DCF2kl1OIPOACC6ZMYD1sonoQXhpXKZU)<br>[Installing brew (macOS only)](https://drive.google.com/open?id=1qsLwS6rcJM9t0K1fwmnKmheiIzEHaeCv)
+* [Slides](https://drive.google.com/open?id=14sS9P_2OzlcaXug1fmXTG5ahcQq5me_Xj9O8hViNcyY)
+#### Lecture 2
+* [Lecture](#)
+* [Slides](#)
+* Readings: [Unix for the Beginning Mage](http://unixmages.com/wp-content/uploads/2018/12/ufbm.pdf) Chapters 1-3 (stop at page 32)<br>[How To Read Man Pages](https://www.cs.mcgill.ca/~guide/help/man.html)
+* [Quiz](https://forms.gle/513xd9rdPesYPVDf8)
