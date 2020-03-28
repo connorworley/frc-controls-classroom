@@ -14,6 +14,7 @@ Welcome to the controls classroom! This class is intended to get you up to speed
 #### Lecture 1
 * [Lecture](https://drive.google.com/open?id=1DCF2kl1OIPOACC6ZMYD1sonoQXhpXKZU)<br>[Installing brew (macOS only)](https://drive.google.com/open?id=1qsLwS6rcJM9t0K1fwmnKmheiIzEHaeCv)
 * [Slides](https://drive.google.com/open?id=14sS9P_2OzlcaXug1fmXTG5ahcQq5me_Xj9O8hViNcyY)
+
 #### Lecture 2
 * [Lecture](#)
 * [Slides](#)
