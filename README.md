@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Controls Classroom
+Welcome to the controls classroom! This class is intended to get you up to speed writing high quality C++ code for The Holy Cows. Expactations and the syllabus for the class are below.
 
-You can use the [editor on GitHub](https://github.com/connorworley/frc-controls-classroom/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Expectations
+* Complete all readings and quizes in a timely manner (~1 week after assigned).
+* Don't copy and paste code from your peers or Google. Asking questions and Googling to gain a deeper understanding is OK, copying and pasting code is NOT.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Asking questions
+* Ask questions in #controls in Slack and provide as much detail as possible.
+* Don't DM cworley unless you have a truly private question.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/connorworley/frc-controls-classroom/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Syllabus
+| Video | Slides | Reading | Quiz |
+|-------|--------|---------|------|
+| [Lecture 1](https://drive.google.com/open?id=1DCF2kl1OIPOACC6ZMYD1sonoQXhpXKZU)<br>[Installing brew (macOS only)](https://drive.google.com/open?id=1qsLwS6rcJM9t0K1fwmnKmheiIzEHaeCv) | [Slides](https://drive.google.com/open?id=14sS9P_2OzlcaXug1fmXTG5ahcQq5me_Xj9O8hViNcyY) | | |
+| [Lecture 2](#) | [Slides](#) | [Unix for the Beginning Mage](http://unixmages.com/wp-content/uploads/2018/12/ufbm.pdf) Chapters 1-3 (stop at page 32)<br>[How To Read Man Pages](https://www.cs.mcgill.ca/~guide/help/man.html) | [Quiz 1](https://forms.gle/513xd9rdPesYPVDf8) |
