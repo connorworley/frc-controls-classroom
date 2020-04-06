@@ -20,3 +20,9 @@ Welcome to the controls classroom! This class is intended to get you up to speed
 * [Slides](https://drive.google.com/open?id=1frRd5mT8WvX-Xm3rLWbLRtidpi7fkPg9tq_iDBH9oWg)
 * Readings: [Unix for the Beginning Mage](http://unixmages.com/wp-content/uploads/2018/12/ufbm.pdf) Chapters 1-3 (stop at page 32)<br>[How To Read Man Pages](https://www.cs.mcgill.ca/~guide/help/man.html)
 * [Quiz](https://forms.gle/513xd9rdPesYPVDf8)
+
+#### Lecture 3
+* [Lecture](https://drive.google.com/open?id=1Gjv3TBEezdlA6eC54q-5nZGKnRJr1o2B)
+* [Slides](https://docs.google.com/presentation/d/1P7uaEyvH7RRKebfM_cY7waYE12VchtwHsb_1fN4ii84/edit?usp=sharing)
+* Readings: [Unix for the Beginning Mage](http://unixmages.com/wp-content/uploads/2018/12/ufbm.pdf) Chapters 4-6
+* [Quiz](https://forms.gle/LExjPajPyHFdQuFM7)
