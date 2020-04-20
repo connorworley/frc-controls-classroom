@@ -12,7 +12,7 @@ Welcome to the controls classroom! This class is intended to get you up to speed
 
 ### Syllabus
 #### Lecture 1
-* [Lecture](https://www.youtube.com/watch?v=x5PUrgT05J4)
+* [Lecture](https://www.youtube.com/watch?v=x5PUrgT05J4)<br>[Installing brew (macOS only)](https://www.youtube.com/watch?v=qvzcqUv3YQ4)
 * [Slides](https://drive.google.com/open?id=14sS9P_2OzlcaXug1fmXTG5ahcQq5me_Xj9O8hViNcyY)
 
 #### Lecture 2
