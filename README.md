@@ -27,8 +27,13 @@ Welcome to the controls classroom! This class is intended to get you up to speed
 * Readings: [Unix for the Beginning Mage](http://unixmages.com/wp-content/uploads/2018/12/ufbm.pdf) Chapters 4-6
 * [Quiz](https://forms.gle/LExjPajPyHFdQuFM7)
 
-### Lecture 4
+#### Lecture 4
 * [Lecture](https://www.youtube.com/watch?v=kOaLSE9aD4w)
 * [Slides](https://docs.google.com/presentation/d/128-qDMPwSbfDOfkFa5oR9c6wVklaOMLnAcaPjuyUmE8/edit?usp=sharing)
 * No readings this week
 * See lecture for try it yourself assignments
+
+#### Lecture 5
+* [Lecture](https://www.youtube.com/watch?v=FEctXJaDR-g)
+* [Slides](https://docs.google.com/presentation/d/1E22NHnYeXpWuIeJAyQ3n4cUUgt1FgWdRa5E6A0HJfrs/edit?usp=sharing)
+* Resource: [Learn Git Branching](https://learngitbranching.js.org/)
